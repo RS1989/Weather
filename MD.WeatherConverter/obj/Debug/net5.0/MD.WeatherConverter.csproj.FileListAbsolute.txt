@@ -1,0 +1,12 @@
+C:\Users\rusla\source\repos\MD.Weather\MD.WeatherConverter\bin\Debug\net5.0\MD.WeatherConverter.deps.json
+C:\Users\rusla\source\repos\MD.Weather\MD.WeatherConverter\bin\Debug\net5.0\MD.WeatherConverter.dll
+C:\Users\rusla\source\repos\MD.Weather\MD.WeatherConverter\bin\Debug\net5.0\ref\MD.WeatherConverter.dll
+C:\Users\rusla\source\repos\MD.Weather\MD.WeatherConverter\bin\Debug\net5.0\MD.WeatherConverter.pdb
+C:\Users\rusla\source\repos\MD.Weather\MD.WeatherConverter\obj\Debug\net5.0\MD.WeatherConverter.csprojAssemblyReference.cache
+C:\Users\rusla\source\repos\MD.Weather\MD.WeatherConverter\obj\Debug\net5.0\MD.WeatherConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\MD.Weather\MD.WeatherConverter\obj\Debug\net5.0\MD.WeatherConverter.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\MD.Weather\MD.WeatherConverter\obj\Debug\net5.0\MD.WeatherConverter.AssemblyInfo.cs
+C:\Users\rusla\source\repos\MD.Weather\MD.WeatherConverter\obj\Debug\net5.0\MD.WeatherConverter.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\MD.Weather\MD.WeatherConverter\obj\Debug\net5.0\MD.WeatherConverter.dll
+C:\Users\rusla\source\repos\MD.Weather\MD.WeatherConverter\obj\Debug\net5.0\ref\MD.WeatherConverter.dll
+C:\Users\rusla\source\repos\MD.Weather\MD.WeatherConverter\obj\Debug\net5.0\MD.WeatherConverter.pdb

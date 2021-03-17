@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2boFoZZfQPgRPjxAtePttn1ylGp9TpI7jKt4RSH/r1Sq8ZYJ2d4z5/bCBDjXF22CDm7sBmDcte3IJqYJi0Vkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rusla\\source\\repos\\MD.Weather\\MD.HttpService\\MD.HttpService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rusla\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

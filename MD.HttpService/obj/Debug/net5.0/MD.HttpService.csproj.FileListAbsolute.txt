@@ -1,0 +1,12 @@
+C:\Users\rusla\source\repos\MD.Weather\MD.HttpService\bin\Debug\net5.0\MD.HttpService.deps.json
+C:\Users\rusla\source\repos\MD.Weather\MD.HttpService\bin\Debug\net5.0\MD.HttpService.dll
+C:\Users\rusla\source\repos\MD.Weather\MD.HttpService\bin\Debug\net5.0\ref\MD.HttpService.dll
+C:\Users\rusla\source\repos\MD.Weather\MD.HttpService\bin\Debug\net5.0\MD.HttpService.pdb
+C:\Users\rusla\source\repos\MD.Weather\MD.HttpService\obj\Debug\net5.0\MD.HttpService.csprojAssemblyReference.cache
+C:\Users\rusla\source\repos\MD.Weather\MD.HttpService\obj\Debug\net5.0\MD.HttpService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\MD.Weather\MD.HttpService\obj\Debug\net5.0\MD.HttpService.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\MD.Weather\MD.HttpService\obj\Debug\net5.0\MD.HttpService.AssemblyInfo.cs
+C:\Users\rusla\source\repos\MD.Weather\MD.HttpService\obj\Debug\net5.0\MD.HttpService.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\MD.Weather\MD.HttpService\obj\Debug\net5.0\MD.HttpService.dll
+C:\Users\rusla\source\repos\MD.Weather\MD.HttpService\obj\Debug\net5.0\ref\MD.HttpService.dll
+C:\Users\rusla\source\repos\MD.Weather\MD.HttpService\obj\Debug\net5.0\MD.HttpService.pdb
